@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimam-tamimi" alt="jimam-tamimi" /></a> </p>
 
-- 🌱 I’m currently learning **Web3**
+- 📄 Know about my experiences [https://jimam.me/](https://jimam.me/)
+  
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/jimamtamimi/details/projects/](https://www.linkedin.com/in/jimamtamimi/details/projects/)
+- 👨‍💻 All of my projects are available at [https://jimam.me/#projects](https://jimam.me/#projects)
 
 - 📸 I regularly upload Videos on [https://www.youtube.com/@Jimam](https://www.youtube.com/@Jimam)
 
@@ -15,7 +17,6 @@
 
 - 📫 How to reach me **jimamtamimi12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MX-kzgBL335epqM4A79ZjLASpnDBBdYa/view?usp=sharing](https://drive.google.com/file/d/1MX-kzgBL335epqM4A79ZjLASpnDBBdYa/view?usp=sharing)
 
 # 💫 About Me:
 Self-taught, Well-qualified and Hardworking Full Stack Web Developer familiar with a wide range<br>of programming utilities and languages like JavaScript, Python, C, PhP. <br>🚀 Knowledgeable of backend and frontend development frameworks like Django, Django Rest Framework, Django Channels, React JS, Next JS, Redux, TypeScript, Tailwind CSS etc.<br>Also being a part-time content creator, I can work in Adobe Premier Pro, After Effects and Photoshop📹 Able to handle any part of the process with ease 🔥<br>Have good communication skills.
